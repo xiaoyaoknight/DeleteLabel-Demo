@@ -15,6 +15,7 @@
 		C7C0EFFE22EAD78C00A5EE74 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C7C0EFFD22EAD78C00A5EE74 /* main.m */; };
 		C7C0F00822EAD78C00A5EE74 /* DeleteLabel_DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C7C0F00722EAD78C00A5EE74 /* DeleteLabel_DemoTests.m */; };
 		C7C0F01322EAD78C00A5EE74 /* DeleteLabel_DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C7C0F01222EAD78C00A5EE74 /* DeleteLabel_DemoUITests.m */; };
+		C7C0F02322EAD7B300A5EE74 /* DeleteLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = C7C0F02122EAD7B200A5EE74 /* DeleteLabel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		C7C0F00E22EAD78C00A5EE74 /* DeleteLabel-DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DeleteLabel-DemoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7C0F01222EAD78C00A5EE74 /* DeleteLabel_DemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DeleteLabel_DemoUITests.m; sourceTree = "<group>"; };
 		C7C0F01422EAD78C00A5EE74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7C0F02122EAD7B200A5EE74 /* DeleteLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeleteLabel.m; sourceTree = "<group>"; };
+		C7C0F02222EAD7B300A5EE74 /* DeleteLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeleteLabel.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				C7C0EFEF22EAD78A00A5EE74 /* AppDelegate.m */,
 				C7C0EFF122EAD78A00A5EE74 /* ViewController.h */,
 				C7C0EFF222EAD78A00A5EE74 /* ViewController.m */,
+				C7C0F02222EAD7B300A5EE74 /* DeleteLabel.h */,
+				C7C0F02122EAD7B200A5EE74 /* DeleteLabel.m */,
 				C7C0EFF422EAD78A00A5EE74 /* Main.storyboard */,
 				C7C0EFF722EAD78C00A5EE74 /* Assets.xcassets */,
 				C7C0EFF922EAD78C00A5EE74 /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 				C7C0EFF322EAD78A00A5EE74 /* ViewController.m in Sources */,
 				C7C0EFFE22EAD78C00A5EE74 /* main.m in Sources */,
 				C7C0EFF022EAD78A00A5EE74 /* AppDelegate.m in Sources */,
+				C7C0F02322EAD7B300A5EE74 /* DeleteLabel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
